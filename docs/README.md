@@ -52,3 +52,4 @@ How to propose updates
 
 Goal
 - Keep these artifacts living and versioned so knowledge scales across people and time, reduces single-person risk, and improves onboarding and repeatability.
+alkdnals
